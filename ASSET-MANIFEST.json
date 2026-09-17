@@ -1,0 +1,430 @@
+{
+  "sourceDirectory": "C:\\Users\\jenlu\\OneDrive\\Desktop\\Mann Center App",
+  "notes": [
+    "Original bytes preserved.",
+    "V2: Casino photos and PCA logo were not supplied. V3: two Casino Trip photos and PCA.jpg.webp are now supplied and incorporated.",
+    "Eagles maps to the former ready/MOAC album; no photos used across unrelated albums.",
+    "Program illustrations and fictional schedules/descriptions remain demonstration content. Removing repeated UI disclaimers in V3 does not change their evidence status.",
+    "Final approved V3 landing refinement: one supplied transparent PNG replaces the five individual landing images. Superseded entries retained for provenance only; none are rendered. Mann logo remains a separate unchanged asset."
+  ],
+  "files": [
+    {
+      "folder": "Art",
+      "file": "506953996_1210838087719696_2070555365780401027_n.jpg",
+      "destination": "assets/photos/art/01.jpg",
+      "sha256": "2d5eb4a81c8c507476f7ca6967ba360fe95559e71364d1169fd9e02dc2a0af5c"
+    },
+    {
+      "folder": "Art",
+      "file": "507679559_1210841717719333_68915768130998568_n.jpg",
+      "destination": "assets/photos/art/02.jpg",
+      "sha256": "7c572f28cb038fafea4a61c9ff35e1d916e88717810292b92bd349035e2d38ab"
+    },
+    {
+      "folder": "Art",
+      "file": "507950906_1210838967719608_2916038658466556396_n.jpg",
+      "destination": "assets/photos/art/03.jpg",
+      "sha256": "17417a58bec4a5160ed430b8f9386c6f67dc51b54e474eeaf835c8cf1a4cf037"
+    },
+    {
+      "folder": "Art",
+      "file": "508135109_1210840054386166_3089827219955323451_n.jpg",
+      "destination": "assets/photos/art/04.jpg",
+      "sha256": "af251b674f305560e91a47b8700344dff7ddd5d5cbef96e5f853af768a25a437"
+    },
+    {
+      "folder": "Art",
+      "file": "508180539_1210837487719756_6585506396117855187_n.jpg",
+      "destination": "assets/photos/art/05.jpg",
+      "sha256": "f5a711f88c82aa92a4bc3479a65148df4aa53dd3fca523f82ea98d8886e6ded2"
+    },
+    {
+      "folder": "Art",
+      "file": "508343145_1210837737719731_6848206715563095800_n.jpg",
+      "destination": "assets/photos/art/06.jpg",
+      "sha256": "9896afb62f031792e28ad85d5fcafde12def432622350fc2f6731210eefb9471"
+    },
+    {
+      "folder": "Community Resources",
+      "file": "498547477_1191723522964486_4103102950019067768_n.jpg",
+      "destination": "assets/photos/resources/01.jpg",
+      "sha256": "7353821f734ac297f48257f235f7c2336792aaec2f63e91a22bef7cae99c6321"
+    },
+    {
+      "folder": "Community Resources",
+      "file": "499198309_1191719999631505_2635060246614722521_n.jpg",
+      "destination": "assets/photos/resources/02.jpg",
+      "sha256": "d4327f987dbf84c8412b336cfeeef7af1fa2207610784a5260e78e8baaf9ac80"
+    },
+    {
+      "folder": "Community Resources",
+      "file": "499695556_1191718799631625_1209397120336050773_n.jpg",
+      "destination": "assets/photos/resources/03.jpg",
+      "sha256": "6eac00db1ccf5abc502049045a06ef561527494435106598fc7a5ec1801184dc"
+    },
+    {
+      "folder": "Community Resources",
+      "file": "499717322_1191721826297989_9015516613932224049_n.jpg",
+      "destination": "assets/photos/resources/04.jpg",
+      "sha256": "69c62cd106ff53be3972674b89b16ab272f5c8747ab5e4c64b26fc894da7d5e9"
+    },
+    {
+      "folder": "Community Resources",
+      "file": "499933859_1191723016297870_2908419807165483951_n.jpg",
+      "destination": "assets/photos/resources/05.jpg",
+      "sha256": "3bfcaa57c7531a921e2548e66897d58982b95f205f5662feea75f7a478097003"
+    },
+    {
+      "folder": "Community Resources",
+      "file": "500794143_1191721136298058_2406293481623078569_n.jpg",
+      "destination": "assets/photos/resources/06.jpg",
+      "sha256": "fe314a3671c5c03c49c0c90205185830277a6f33e80604a4c549c7046280f54d"
+    },
+    {
+      "folder": "Cooking",
+      "file": "507878455_1211443834325788_7337639449309630008_n.jpg",
+      "destination": "assets/photos/cooking/01.jpg",
+      "sha256": "3c6d296406bc64567c877b26d430fea0669f3a1fde84d8438d5da3c584cd5b17"
+    },
+    {
+      "folder": "Cooking",
+      "file": "508155045_1211443787659126_8612866281440307049_n.jpg",
+      "destination": "assets/photos/cooking/02.jpg",
+      "sha256": "30e236cf85570ddeb203e75ac11b6c2744a46faeb494246e7e72e8055cb265bf"
+    },
+    {
+      "folder": "Cooking",
+      "file": "508180244_1211443634325808_4667037457374022970_n.jpg",
+      "destination": "assets/photos/cooking/03.jpg",
+      "sha256": "c9f713933d3ca927aa32cde9d1577316ba4b7dae6f145410aade91a0c398f351"
+    },
+    {
+      "folder": "Cooking",
+      "file": "508388042_1211443700992468_5065628414559500243_n.jpg",
+      "destination": "assets/photos/cooking/04.jpg",
+      "sha256": "d03fa50413e2d0c4b94b45cdce00b7732d88df7cda8e2bba33b8a62ecfd015b9"
+    },
+    {
+      "folder": "Eagles",
+      "file": "542760849_1279347584202079_243497149325349109_n.jpg",
+      "destination": "assets/photos/ready/01.jpg",
+      "sha256": "995bbab88049c91755e144ae42b15aec96241542f04dbdfc55f13e32e79fcab6"
+    },
+    {
+      "folder": "Eagles",
+      "file": "542761664_1279347567535414_6342724821036910183_n.jpg",
+      "destination": "assets/photos/ready/02.jpg",
+      "sha256": "d09ab2589f8355f8d09d46a5a87966bdda0dd3fe736710df1ed8585170ed1d99"
+    },
+    {
+      "folder": "Eagles",
+      "file": "543115846_1279347620868742_662380845812433836_n.jpg",
+      "destination": "assets/photos/ready/03.jpg",
+      "sha256": "698300ec8bd74e274063b439b8436ff5d81d6315641bbd11149860af376a26d7"
+    },
+    {
+      "folder": "Eagles",
+      "file": "543351715_1279347560868748_1716436884040496020_n.jpg",
+      "destination": "assets/photos/ready/04.jpg",
+      "sha256": "5438a7ace18ce2be204271948c08013f4da4a0beb4e98a2da49f94ed03809a76"
+    },
+    {
+      "folder": "Gardening",
+      "file": "538610469_1270176815119156_8687355369001450265_n.jpg",
+      "destination": "assets/photos/garden/01.jpg",
+      "sha256": "5287b0c5164c253cbcaa13fddbd100ed3b25056cd6e3392c1e0962af8be3bb07"
+    },
+    {
+      "folder": "Gardening",
+      "file": "539059771_1270176781785826_103728407344463055_n.jpg",
+      "destination": "assets/photos/garden/02.jpg",
+      "sha256": "596b795bb8c9ba3db39d96f8b073c5b8fa3c20d90e7c4cc06bf07416176dc5cb"
+    },
+    {
+      "folder": "Gardening",
+      "file": "539128720_1270176791785825_2849433902140774240_n.jpg",
+      "destination": "assets/photos/garden/03.jpg",
+      "sha256": "48ec50ae0ce014003af1bccbdcfccf8d200f98062a225d47ca1b859750b755df"
+    },
+    {
+      "folder": "Gardening",
+      "file": "539244306_1270176828452488_6453381980207806406_n.jpg",
+      "destination": "assets/photos/garden/04.jpg",
+      "sha256": "602ef73397c1ebb0445e0041cb7ea29d83ffd7ca980289a99aa4476043476456"
+    },
+    {
+      "folder": "Gardening",
+      "file": "539584057_1270176801785824_1918244122106742032_n.jpg",
+      "destination": "assets/photos/garden/05.jpg",
+      "sha256": "04d66a17a4dc3536b6bbb8fd3df3d29ce28b255b4028d5b47d54f511b23d16d2"
+    },
+    {
+      "folder": "Hispanic Hertiage Month",
+      "file": "555670784_1299575975512573_4865185780340515458_n.jpg",
+      "destination": "assets/photos/heritage/01.jpg",
+      "sha256": "95a1d799a0a6fad80d5eef4099d2f8fba705d09c4de1579f1c0af706ed9919dc"
+    },
+    {
+      "folder": "Hispanic Hertiage Month",
+      "file": "555706833_1299575838845920_7030067335196632272_n.jpg",
+      "destination": "assets/photos/heritage/02.jpg",
+      "sha256": "faf78835eed194c07125b26bef1c8195128c5c86254fea9c5e75c8923aed0958"
+    },
+    {
+      "folder": "Hispanic Hertiage Month",
+      "file": "555731803_1299575955512575_6437266726148785760_n.jpg",
+      "destination": "assets/photos/heritage/03.jpg",
+      "sha256": "2748f6e4db7f4636675e57990554672741e4ea1a122b09a3966e54fc09ee2e29"
+    },
+    {
+      "folder": "Hispanic Hertiage Month",
+      "file": "556457543_1299575608845943_1979237364810024008_n.jpg",
+      "destination": "assets/photos/heritage/04.jpg",
+      "sha256": "61fc42737f4eaa6861e8585ce7bf1b4f4dea856e9a3c69413576d9a551226118"
+    },
+    {
+      "folder": "Hispanic Hertiage Month",
+      "file": "556584152_1299576012179236_8131492773032883547_n.jpg",
+      "destination": "assets/photos/heritage/05.jpg",
+      "sha256": "7239326664a4e6f8d4fc56b0d9a0703ad99906c64ee8173c29c810f0eaf7995c"
+    },
+    {
+      "folder": "Hispanic Hertiage Month",
+      "file": "556869657_1299575715512599_2039041644660128654_n.jpg",
+      "destination": "assets/photos/heritage/06.jpg",
+      "sha256": "625eae2b41a7ecbabfad75ae6dd29d8d1eb3a8929d9846eb46a9db30aafcca56"
+    },
+    {
+      "folder": "Linvilla Orchards",
+      "file": "532536826_1261348079335363_3534220638967720660_n.jpg",
+      "destination": "assets/photos/apple/01.jpg",
+      "sha256": "aa35ebd89495c9f44234cb8a6277427495d7de6b4600f78508a6a8e4e9dbfa82"
+    },
+    {
+      "folder": "Linvilla Orchards",
+      "file": "532807168_1261348199335351_1676306055381786320_n.jpg",
+      "destination": "assets/photos/apple/02.jpg",
+      "sha256": "7f54b795ac4bd5b6b0189de86f4f7e74bda997a6fec32ca0ec5a46468f77c9f3"
+    },
+    {
+      "folder": "Linvilla Orchards",
+      "file": "532898271_1261348259335345_1112650091748686259_n.jpg",
+      "destination": "assets/photos/apple/03.jpg",
+      "sha256": "016de35ad05af61db859a14bbde8f80339f43022ebb4c8e4541e223e669d95d5"
+    },
+    {
+      "folder": "Linvilla Orchards",
+      "file": "533112978_1261348112668693_6755832491007833631_n.jpg",
+      "destination": "assets/photos/apple/04.jpg",
+      "sha256": "63c51c81a892f96ec46b6a64dd78c3d1a203379cdb4dc68db3869e71402a754a"
+    },
+    {
+      "folder": "Linvilla Orchards",
+      "file": "534410747_1261348286002009_177052527669503237_n.jpg",
+      "destination": "assets/photos/apple/05.jpg",
+      "sha256": "e13d5df13305cebdc7d83ba84cdfd5932c6f42e3a9b1730dae8de73c741ae106"
+    },
+    {
+      "folder": "Linvilla Orchards",
+      "file": "534832756_1261348236002014_42414795775233996_n.jpg",
+      "destination": "assets/photos/apple/06.jpg",
+      "sha256": "5ba6e6f49983042bee7a93ee20c7a93eb616661700a82d55ca96ba4d2dcf4594"
+    },
+    {
+      "folder": "Mother's Day Tea Pty",
+      "file": "495140967_1180672554069583_3121182595141597052_n.jpg",
+      "destination": "assets/photos/tea/01.jpg",
+      "sha256": "8fa68346ce03b28a7f2a2ea0240a34603cf0e8e73ef54b2e55965d251b331bc1"
+    },
+    {
+      "folder": "Mother's Day Tea Pty",
+      "file": "495278011_1180672260736279_4282799175813797519_n.jpg",
+      "destination": "assets/photos/tea/02.jpg",
+      "sha256": "42a71352201a052dcc6cd0c4f63fae296227984cb2f3b8402cd95e2f187842b8"
+    },
+    {
+      "folder": "Mother's Day Tea Pty",
+      "file": "495370092_1180672597402912_6382125588774532737_n.jpg",
+      "destination": "assets/photos/tea/03.jpg",
+      "sha256": "0a0408281cf9b315aae6ebced0440f8ce9402fe546c2718ad54e85f3f5846a66"
+    },
+    {
+      "folder": "Mother's Day Tea Pty",
+      "file": "495375143_1180672250736280_532011632409248843_n.jpg",
+      "destination": "assets/photos/tea/04.jpg",
+      "sha256": "8e559873c3fdac68638e90433b47e9130a4b7265a8decbb6d11721caf5d68253"
+    },
+    {
+      "folder": "Mother's Day Tea Pty",
+      "file": "495442110_1180672530736252_4035122482488184822_n.jpg",
+      "destination": "assets/photos/tea/05.jpg",
+      "sha256": "4f9618b08b98ab4a62141339073177f401ee886302be61922c5ca34e924c44d0"
+    },
+    {
+      "folder": "Mother's Day Tea Pty",
+      "file": "495868538_1180672210736284_5524013820041288126_n.jpg",
+      "destination": "assets/photos/tea/06.jpg",
+      "sha256": "f3d77e8a896e2f0ef0f9c31ab7a48c8b1c2d11fdafb1e69891d87cb620cb4815"
+    },
+    {
+      "folder": "Pickleball",
+      "file": "508487804_1211444574325714_5125536986095904746_n.jpg",
+      "destination": "assets/photos/pickleball/01.jpg",
+      "sha256": "67ddc6f6fa2ec0efb1808e4a44f0a43b82b8e2f9abcff19b57c3d210f767c618"
+    },
+    {
+      "folder": "Pickleball",
+      "file": "508687484_1211444567659048_2907116909041738614_n.jpg",
+      "destination": "assets/photos/pickleball/02.jpg",
+      "sha256": "2e0e278021c5e0fa65b585679f17984241feb916ed9c3186c51888a38d04538d"
+    },
+    {
+      "folder": "Ribbon Cutting",
+      "file": "493292377_1171158555020983_3870795294157872295_n.jpg",
+      "destination": "assets/photos/ribbon/01.jpg",
+      "sha256": "d4145ac532d4b94841f500660d4e500a0c1745f266ae7fc59921f4961fdea4cd"
+    },
+    {
+      "folder": "Ribbon Cutting",
+      "file": "495180367_1179001277570044_3074458015931448472_n.jpg",
+      "destination": "assets/photos/ribbon/02.jpg",
+      "sha256": "a0bd5024a0a0a323dd02347209d0496cb8da9a114c1b93d6f817fb66c7467247"
+    },
+    {
+      "folder": "Ribbon Cutting",
+      "file": "495283439_1179002127569959_3497006115262527651_n.jpg",
+      "destination": "assets/photos/ribbon/03.jpg",
+      "sha256": "68b5e382bcd02bbfec06cbce75c38422b847bd0fe5b26c49cc7b85a057fd7787"
+    },
+    {
+      "folder": "Ribbon Cutting",
+      "file": "495321682_1178999514236887_3169728328307941253_n.jpg",
+      "destination": "assets/photos/ribbon/04.jpg",
+      "sha256": "09818324d17dcf01f65488162f9d840495dee3823da5783288356bbc4eda3aee"
+    },
+    {
+      "folder": "Ribbon Cutting",
+      "file": "496070728_1178998567570315_7973636303191104456_n.jpg",
+      "destination": "assets/photos/ribbon/05.jpg",
+      "sha256": "bd4660d616cf499d76fc9fe68179505bb4fee5d9f752f26369c5c0dee3bf67f7"
+    },
+    {
+      "folder": "Zoo",
+      "file": "532206310_1261349482668556_5719132710782204959_n.jpg",
+      "destination": "assets/photos/zoo/01.jpg",
+      "sha256": "3fbb95706b19ee2d5bbb3ca2ea599a884665f0330b5d68b7d4082c59b72fbce2"
+    },
+    {
+      "folder": "Zoo",
+      "file": "532623088_1261349416001896_3246726446114744452_n.jpg",
+      "destination": "assets/photos/zoo/02.jpg",
+      "sha256": "c3e0ae73145ab94933f07523a5c4837a4c730e50b0329966a7522c94c5709fc0"
+    },
+    {
+      "folder": "Zoo",
+      "file": "533483502_1261349452668559_5962429045404029462_n.jpg",
+      "destination": "assets/photos/zoo/03.jpg",
+      "sha256": "9fb38fe5a2889844a6e6500c6609f2d0b3410c413a0d915672e35cc6555ae95b"
+    },
+    {
+      "folder": "Zoo",
+      "file": "533558948_1261349079335263_8974600565550591648_n.jpg",
+      "destination": "assets/photos/zoo/04.jpg",
+      "sha256": "bc498c0cd23ff3c5c37b6faea972d6d71ea3571418df2521c997308b47d6522b"
+    },
+    {
+      "folder": "Zoo",
+      "file": "534770415_1261349446001893_160115692206688914_n.jpg",
+      "destination": "assets/photos/zoo/05.jpg",
+      "sha256": "b36ed0b6150830d8dcee5736fa1e23a4a1d73621f46dd5e9cad6dcca23efa5e4"
+    },
+    {
+      "folder": "Zoo",
+      "file": "544764756_1280330157437155_1639715826722256348_n.jpg",
+      "destination": "assets/photos/zoo/06.jpg",
+      "sha256": "ebfcc25a1d103231346c9b087cbc454e0ea0398f69ce51ca3ed8700a7c8bcc73"
+    },
+    {
+      "folder": "Casino Trip",
+      "file": "532622100_1261350022668502_7871312380220015892_n.jpg",
+      "destination": "assets/photos/casino/01.jpg",
+      "sha256": "49264ae7bd2512994a4901aec960176968b7420a09b4fe3ecbdb8a592ba3a738"
+    },
+    {
+      "folder": "Casino Trip",
+      "file": "533519826_1261350029335168_4851816519291871047_n.jpg",
+      "destination": "assets/photos/casino/02.jpg",
+      "sha256": "15edb0a720b22ec20412c36b4311b20988588743fd9f4757e9fda88c71cd40be"
+    },
+    {
+      "folder": "Logos",
+      "file": "Mann Center Logo.png",
+      "destination": "assets/logos/mann.png",
+      "sha256": "884751a746d55fdd836825575c5acf8ca3366959967c225e2b04964e68998467"
+    },
+    {
+      "folder": "Logos",
+      "file": "philabundance-logo.png",
+      "destination": "assets/logos/philabundance.png",
+      "sha256": "77f449e6ae135ae5adfc78af4f5c466f7ee383e1f79c421349afc3e97f5ecdbd"
+    },
+    {
+      "folder": "Logos",
+      "file": "Philaldephia Parks&Rec Logo.png",
+      "destination": "assets/logos/parks.png",
+      "sha256": "fad6203ac47f6c05c78b027f7176a27bb595fdeb27c0155944715e8e98ad52e9"
+    },
+    {
+      "folder": "Logos",
+      "file": "Wellcare logo.jpg",
+      "destination": "assets/logos/wellcare.jpg",
+      "sha256": "3dc5a544eef3ba1e3fde16ec410dc6b6d185136885afa4911f03837491af7b66"
+    },
+    {
+      "folder": "Logos",
+      "file": "PCA.jpg.webp",
+      "destination": "assets/logos/pca.webp",
+      "sha256": "62baebabd5fd06888932d24addf060f42c7c29278652dfdaf505bc0efbc489bc"
+    },
+    {
+      "folder": "Landing Page Photos",
+      "file": "Landing Background 1.png",
+      "destination": "assets/landing/composition.png",
+      "sha256": "1f12851a2c4b3078b6871a25fbe1134de8c53b1a817b3dd95a5d78edb40624b0",
+      "width": 880,
+      "height": 1912
+    }
+  ],
+  "supersededLandingFiles": [
+    {
+      "folder": "Landing Page Photos",
+      "file": "Copy-of-house-3-1-1-2048x1536.jpeg",
+      "destination": "assets/landing/1.jpeg",
+      "sha256": "ebb4ef9f6268d751f5c2105f3c7c5fb8df2e018617b47bb778f9a1378465b384"
+    },
+    {
+      "folder": "Landing Page Photos",
+      "file": "download (1).jpg",
+      "destination": "assets/landing/2.jpg",
+      "sha256": "dd6122dd2d989c055d77723600a7aa1d0fa1bda30f4669e760f0a33a2c963408"
+    },
+    {
+      "folder": "Landing Page Photos",
+      "file": "download (2).jpg",
+      "destination": "assets/landing/3.jpg",
+      "sha256": "6b74f3808bc704b98a27bbf3e5eb71b99e516b4cfb5f936730eb832965203a62"
+    },
+    {
+      "folder": "Landing Page Photos",
+      "file": "download.jpg",
+      "destination": "assets/landing/4.jpg",
+      "sha256": "f8c7a379673b69e2c3ab8ad7e5ba22b8d094629f0cda24bf854971ec4985769e"
+    },
+    {
+      "folder": "Landing Page Photos",
+      "file": "skyline.png",
+      "destination": "assets/landing/5.png",
+      "sha256": "08fb746d7f5b443a9c21f635199015fa55c7c4f44291e3098b5fec0e5e4319da"
+    }
+  ]
+}
