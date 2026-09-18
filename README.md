@@ -2,10 +2,10 @@
 
 A design-complete, bilingual information prototype for older adults using the Mann Older Adult Center. It helps members find today's activities and meals, explore center programs and events, and view familiar community photographs through a simple phone-first interface.
 
-- **Live Prototype:** [to be added after deployment]
-- **GitHub Repository:** [to be added after repository creation]
+- **Live Prototype:** [Open the deployed prototype](https://mann-older-adult-center-prototype.vercel.app/)
+- **GitHub Repository:** [View the project repository](https://github.com/jenluu92/Mann-Older-Adult-Center-Prototype)
 
-The project owner has manually reviewed and approved the final design and functional flows. The prototype is currently local; deployment and repository publication have not occurred.
+The project owner has manually reviewed and approved the final design and functional flows. The project is published on GitHub and the prototype is deployed through Vercel. The project owner reports that the production prototype loaded successfully on a physical Samsung phone and the navigation/interactions tested worked as intended.
 
 ## Experience
 
@@ -23,7 +23,7 @@ Landing offers English and Español entry buttons. Persistent **Home / My Center
 
 The interface uses locally bundled Nunito, readable type weights, Mann blue `#0F4D90` and yellow `#FFC445`, large controls and a centered phone layout at wider browser sizes. Spanish text reflows within the shared layout. Semantic controls, localized labels, a skip link, visible keyboard focus, modal focus handling and reduced-motion styling support access.
 
-Physical-device and screen-reader testing are **pending**. The project does not claim full accessibility conformance; other outstanding checks and target-size limitations are documented in [QA.md](QA.md).
+A manual production check on a physical Samsung phone is complete. Screen-reader testing remains **pending**. The project does not claim full accessibility conformance; other outstanding checks and target-size limitations are documented in [QA.md](QA.md).
 
 ## Content and assets
 
@@ -57,7 +57,7 @@ node --test tests/content.test.mjs tests/assets.test.mjs
 
 The prototype was created through an AI-assisted workflow: the project owner supplied requirements/reference designs, reviewed successive implementations, and accepted, revised or rejected AI choices. The final design reflects that human judgment, not automatic acceptance of AI output.
 
-Seven automated tests pass. Recorded V3 browser checks cover 110 route/language/width combinations and 10 photo-viewer layouts, followed by targeted Landing checks. The owner completed final visual/functional review, including bilingual flows, all five My Center destinations and all 12 programs. These checks do not replace the pending physical-device, screen-reader, zoom/text-size and broader accessibility/usability reviews.
+Seven automated tests pass. Recorded V3 browser checks cover 110 route/language/width combinations and 10 photo-viewer layouts, followed by targeted Landing checks. The owner completed final visual/functional review, including bilingual flows, all five My Center destinations and all 12 programs. The owner also manually checked the Vercel production version on a physical Samsung phone; no deployment-blocking mobile issue was identified in that check. Screen-reader, zoom/text-size and broader accessibility/usability reviews remain pending.
 
 Project documentation:
 

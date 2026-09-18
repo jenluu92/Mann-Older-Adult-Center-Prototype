@@ -1,6 +1,6 @@
 # Prototype QA rubric
 
-**Current status:** design-complete; final visual/functional acceptance reported by the project owner. See [Final QA and assignment readiness](#final-qa-and-assignment-readiness) for the consolidated status and [Before-and-after screenshot evidence](#before-and-after-screenshot-evidence) for supplied visual evidence. Earlier V1/V2/V3 results and pending-review notes are retained as dated iteration history; they are not all current outstanding defects.
+**Current status:** design-complete, published on GitHub and deployed through Vercel; final visual/functional acceptance and a successful physical Samsung-phone production check reported by the project owner. See [Production deployment and physical-device QA](#production-deployment-and-physical-device-qa) for the latest status, which supersedes historical deployment/device-testing pending notes. Screen-reader testing remains pending. See [Final QA and assignment readiness](#final-qa-and-assignment-readiness) for the consolidated status and [Before-and-after screenshot evidence](#before-and-after-screenshot-evidence) for supplied visual evidence. Earlier V1/V2/V3 results and pending-review notes are retained as dated iteration history; they are not all current outstanding defects.
 
 The rubric was created **before implementation with all results uncompleted**. Results below were subsequently recorded only after developer review. User/usability review is distinct from developer verification; partial checks are not full accessibility certification.
 
@@ -275,3 +275,16 @@ The supplied album screenshots are named `Photo Albums V1.png` and `Photo Albums
 No required artifact is missing. Remaining accessibility validation and deployment/repository links are pending as stated above, not silently marked complete.
 
 Documentation-only integrity check: SHA-256 snapshots matched for all **82 protected prototype/configuration/test/script/asset-manifest files** before and after this work. All four packaged screenshots match their supplied originals byte-for-byte. All **15 local Markdown links** checked across the five project documents resolve. No prototype UI/functionality changes, Git commit, push or deployment occurred.
+
+
+## Production deployment and physical-device QA
+
+This appended record preserves the V1/V2/V3, final local QA and before/after evidence above. Earlier statements that publication, deployment or physical-device testing were pending describe their historical review stages and are superseded by this update.
+
+- **GitHub publication:** [Mann Older Adult Center Prototype](https://github.com/jenluu92/Mann-Older-Adult-Center-Prototype).
+- **Production deployment:** [Vercel live prototype](https://mann-older-adult-center-prototype.vercel.app/).
+- **Reviewer / evidence:** project owner, reporting a completed manual check of the deployed prototype on a physical Samsung phone. The specific model, browser, test date and individual interaction coverage were not supplied; no additional coverage is inferred. This is a user-reported result, not a new Codex device test.
+- **Result:** the production deployment loaded successfully. The owner manually checked the prototype on the phone, and the navigation and interactions tested worked as intended. No deployment-blocking mobile issue was identified during that manual check.
+- **Remaining QA:** screen-reader testing remains pending. Actual 200% browser zoom / OS enlarged-text testing, exhaustive keyboard/interaction-state and contrast/target-size audits, independent Spanish-language review, and older-adult participant usability research are not recorded as completed. This device check does not establish full accessibility conformance or exhaustive device/browser coverage.
+
+README links and publication/testing status have been updated. Only README.md and QA.md are changed in this documentation update; the approved prototype and screenshot evidence remain unchanged.
